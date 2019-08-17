@@ -1,0 +1,36 @@
+{
+    "window.zoomLevel": 0,
+    "window.titleBarStyle": "custom",
+    "window.title": "${rootPath}${separator}${appName}",
+    "workbench.colorTheme": "Pitch Black",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.activityBar.visible": true,
+    "workbench.editor.showTabs": true,
+    "git.ignoreMissingGitWarning": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.rulers": [
+        120
+    ],
+    "editor.trimAutoWhitespace": true,
+    "editor.renderWhitespace": "all",
+    "editor.lineNumbers": "on",
+    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 14,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "off",
+    "editor.wordWrapColumn": 120,
+    "csharp.format.enable": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "breadcrumbs.enabled": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/issues/**": true,
+        "**/*.class": true,
+        "**/*.dll": true,
+        "**/*.jar": true
+    },
+    "csharp.referencesCodeLens.enabled": false
+}
